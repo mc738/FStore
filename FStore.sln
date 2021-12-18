@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FStore", "FStore\FStore.fsproj", "{3084CF06-1928-4617-899E-9F5D27408300}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FStore.App", "FStore.App\FStore.App.fsproj", "{9E16EC95-3E9D-4E8E-B7E7-EB8EA1119D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3084CF06-1928-4617-899E-9F5D27408300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3084CF06-1928-4617-899E-9F5D27408300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3084CF06-1928-4617-899E-9F5D27408300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3084CF06-1928-4617-899E-9F5D27408300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E16EC95-3E9D-4E8E-B7E7-EB8EA1119D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E16EC95-3E9D-4E8E-B7E7-EB8EA1119D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E16EC95-3E9D-4E8E-B7E7-EB8EA1119D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E16EC95-3E9D-4E8E-B7E7-EB8EA1119D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
